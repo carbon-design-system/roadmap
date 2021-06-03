@@ -4,7 +4,7 @@ This repository houses the [Carbon Design System roadmap](https://github.com/car
 
 ## Guide to the roadmap
 
-Each roadmap item is an issue with one or many labels to indicate its related libraries and/or services. Instead of commenting on roadmap items in this repository, each roadmap item will have linked issues in other repositories where the work and discussions are actively taking place.
+Each roadmap item is an issue with one or many labels to indicate its related libraries and/or services. Instead of commenting on roadmap items in this repository, each roadmap item will have linked issues to other repositories where the work and discussions are actively taking place.
 
 ## Contributing
 
