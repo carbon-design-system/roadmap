@@ -8,7 +8,7 @@ Each roadmap item is an issue with one or many labels to indicate its related li
 
 ## Contributing
 
-This roadmap is intended for higher-level items across our our design system. As such, it's not a place to document bugs or daily/weekly tasks. If the feature or enhancement is big enough to share in a Medium article, then it's worth including it in this roadmap.
+This roadmap is intended for higher-level items across our design system. As such, it's not a place to document bugs or daily/weekly tasks. If the feature or enhancement is big enough to share in a Medium article, then it's worth including it in this roadmap.
 
 * Use the issue template to add roadmap items
 * Lock issue conversations so we can concentrate comments and discussions in the repositories where the work is taking place
