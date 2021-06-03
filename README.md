@@ -1,10 +1,10 @@
 # Carbon Design System roadmap
 
-This repository houses the [Carbon Design System roadmap](https://github.com/carbon-design-system/roadmap/projects/1). More information coming here soon.
+This repository houses the [Carbon Design System roadmap](https://github.com/carbon-design-system/roadmap/projects/1) so you can learn about what we're working on and what we have planned for the future. Have questions or comments? Join the discussion in Carbon's [primary repository](https://github.com/carbon-design-system/carbon/discussions) where backlog specifics live.
 
 ## Guide to the roadmap
 
-Coming soon.
+Each roadmap item is an issue with one or many labels to indicate its related libraries and/or services. Instead of commenting on roadmap items in this repository, each roadmap item will have linked issues in other repositories where the work and discussions are actively taking place.
 
 ## Contributing
 
