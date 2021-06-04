@@ -55,4 +55,4 @@ This roadmap is intended for higher-level items across our design system. As suc
 
 ## Disclaimer
 
-Any statement in this repository that is not purely historical is considered a forward-looking statement. The forward-looking product roadmap does not represent a commitment, guarantee, obligation or promise to deliver any product or feature, or to deliver any product and feature by any particular date, and is intended to outline the general development plans.
+Any statement in this repository that is not purely historical is considered a forward-looking statement. The forward-looking roadmap does not represent a commitment, guarantee, obligation or promise to deliver any library or service, or to deliver anything by any particular date, and is intended to outline the general design and development plans.
