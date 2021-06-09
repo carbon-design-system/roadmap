@@ -11,7 +11,7 @@ Each roadmap item is an issue with one or many labels to indicate its related li
 * **Carbon Adobe XD** - Adobe XD design kit of common visual assets like color, type, iconography, and components
 * **Carbon Angular** - Angular implementation of Carbon components
 * **Carbon Axure** - Axure design kit of common visual assets like color, type, iconography, and components
-* **Carbon Charts** - Data visuaizations implemented as Angular, React, Svelte, Vue, and vanilla JavaScript
+* **Carbon Charts** - Data visualizations implemented as Angular, React, Svelte, Vue, and vanilla JavaScript
 * **Carbon Components** - Component styles and vanilla JavaScript
 * **Carbon Elements** - IBM Design Language elements like colors, type, iconography, and more
 * **Carbon Figma** - Figma design kit of common visual assets like color, type, iconography, and components
