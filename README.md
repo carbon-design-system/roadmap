@@ -53,6 +53,39 @@ This roadmap is intended for higher-level items across our design system. As suc
 * Once there's a related GitHub issue for a roadmap item, add that issue as a comment to the roadmap item
 * Once a roadmap item has been delivered, add a comment linking to the release notes, announcement, etc. and close the issue
 
+## Issue template
+
+The following issue template is used to create roadmap items.
+
+<details>
+<summary>Issue template</summary>
+<p>
+
+```markdown
+### Summary
+
+_What problem (or opportunity) are we solving? Why are we solving it? Is there supporting user conversations or research? How does this affect different parts of IBM and beyond?_
+
+### Job stories
+
+_Describe job stories to make the value we deliver to our makers clear, and what it will enable them to do._
+
+1. When ___, I want to ___, so I can ___.
+
+### Success measures
+
+_How we will determine whether the problem as been solved, should that be qualitative and/or quantitative measures?_
+
+1. To do
+
+### Sponsoring team
+
+_If there is a team or group of individuals that are carrying the effort forward, list them here._
+```
+
+</p>
+</details>
+
 ## Disclaimer
 
-Any statement in this repository that is not purely historical is considered a forward-looking statement. The forward-looking roadmap does not represent a commitment, guarantee, obligation or promise to deliver any library or service, or to deliver anything by any particular date, and is intended to outline the general design and development plans.
+This roadmap does not represent a commitment, guarantee, obligation or promise to deliver any library or service, or to deliver anything by any particular date, and is intended to outline the general design and development plans.
