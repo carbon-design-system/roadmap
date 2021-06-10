@@ -39,10 +39,10 @@ _More services will be added as needed._
 ### Status
 
 * **Experimental** - Exploratory efforts, no delivery committments yet
-* **Alpha** - Partially complete, limited documentation, no delivery timeline, could be behind a feature flag
-* **Beta** - Mostly complete, fully documented, published timeline, could be behind a feature flag
-* **RC** - Release candidate, final quality assurance, could be behind a feature flag
-* **GA** - Generally available and published via package latest tags, not behind a feature flag
+* **Alpha** - Partially complete, limited documentation, no delivery timeline
+* **Beta** - Mostly complete, fully documented, published timeline
+* **RC** - Release candidate, final quality assurance
+* **GA** - Generally available and published via package latest tags
 
 ## Contributing to the roadmap
 
