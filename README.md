@@ -44,6 +44,10 @@ _More services will be added as needed._
 * **RC** - Release candidate, final quality assurance
 * **GA** - Generally available and published via package latest tags
 
+### Teams
+
+_GitHub teams in the `carbon-design-system` organization might be added in the future and mapped to various libraries, services, and/or roadmap items to provide more clarity on who is maintaining and contributing to what._
+
 ## Contributing to the roadmap
 
 This roadmap is intended for higher-level items across our design system. As such, it's not a place to document bugs or daily/weekly tasks. If the feature or enhancement is big enough to share in a Medium article, then it's worth including it in this roadmap.
