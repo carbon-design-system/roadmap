@@ -16,7 +16,9 @@ Each roadmap item is an issue with one or many labels to indicate its related li
 * **Carbon Elements** - IBM Design Language elements like colors, type, iconography, and more
 * **Carbon Figma** - Figma design kit of common visual assets like color, type, iconography, and components
 * **Carbon Gatsby Theme** - GatsbyJS theme to build websites with Carbon
+* **Carbon Icons** - Icons implemented as Angular, React, Svelte, Vue and vanilla JavaScript components
 * **Carbon Patterns** - Reusable combinations of components and templates that address common user objectives
+* **Carbon Pictograms** - Pictograms implemented as React and vanilla JavaScript components
 * **Carbon React** - React implementation of Carbon components
 * **Carbon React Native** - Carbon mobile Sketch kit and React Native assets
 * **Carbon Sketch** - Sketch design kit of common visual assets like color, type, iconography, and components
